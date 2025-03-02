@@ -7,6 +7,6 @@ codeforwin:
 - Solve Loop Statements Problems: 2, 5, 6, 9, 10, 15, 16, 21, 40.
 
   hackerrank:
-
-  - Solve Problems: Conditional Statements in C
-  - Solve Problems: For Loop in C
+  
+- Solve Problems: Conditional Statements in C
+- Solve Problems: For Loop in C
